@@ -1,0 +1,47 @@
+*{
+    margin : 0;
+    padding: 0;
+}
+
+.container{
+    margin-top: 200px;
+}
+
+
+table{
+    margin: auto;
+}
+
+body{
+    background-color: rgb(32, 94, 209);
+}
+
+.beige{
+    background-color: beige;
+    width: 50px;
+    height: 50px;
+}
+
+.rouge{
+    background-color: red;
+    width: 50px;
+    height: 50px;
+}
+
+.bleu{
+    background-color: rgb(32, 94, 209);
+    width: 50px;
+    height: 50px;
+}
+
+.marron{
+    background-color: rgb(103, 57, 26);
+    width: 50px;
+    height: 50px;
+}
+
+.jaune{
+    background-color: yellow;
+    width: 50px;
+    height: 50px;
+}
